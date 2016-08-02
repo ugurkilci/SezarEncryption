@@ -2,7 +2,7 @@
 Sezar Passwords
 
 First:
-[pre]<?php include("sezar.php"); ?>[/pre]
+<code><?php include("sezar.php"); ?></code>
 
 Examples:
 [pre]<?php echo sezar("123456"); ?>[/pre]
