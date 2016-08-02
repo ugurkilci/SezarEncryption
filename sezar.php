@@ -1,4 +1,5 @@
-<?php
+<?php 
+/* SezarEncryption (c) 2016 | Bir Uğur KILCI ürünüdür. | twttr@ugur2nd, fcbk@dusunuveringari, lnkdn@ugur2nd, gthb@ugurkilci, instgrm@ugur2nd, gglpls+dusunenadamugur, ytbe@dusunenadamugur, ugurklc.blogspot.com, ugurbocugu8@gmail.com */
 function sezar($text) {
 $text = trim($text);
 $search = array
